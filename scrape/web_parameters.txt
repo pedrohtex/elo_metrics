@@ -1,0 +1,18 @@
+
+Atletas Masculino
+http://www.resultadoonline.com/masterAtletaMas.asp
+
+Atletas Feminino
+http://www.resultadoonline.com/masterAtletaFem.asp
+
+Equipe ELO
+http://www.resultadoonline.com/masterequipeatleta.asp?CodigoEquipe1=178
+
+Descricao Atleta
+http://www.resultadoonline.com/MasterAtletaPreparaResultadoOk.asp
+POST Form Data: 
+txtAno:2015
+txtCodigoAtleta:11612
+txtOrdem:1
+pesq:Pesquisar
+
