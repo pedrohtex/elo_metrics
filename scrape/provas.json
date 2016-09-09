@@ -1,0 +1,154 @@
+{
+  "0": {
+    "nome": "100m Borboleta",
+    "sexo": "F"
+  },
+  "1": {
+    "nome": "100m Borboleta",
+    "sexo": "M"
+  },
+  "2": {
+    "nome": "100m Costas",
+    "sexo": "F"
+  },
+  "3": {
+    "nome": "100m Costas",
+    "sexo": "M"
+  },
+  "4": {
+    "nome": "100m Livre",
+    "sexo": "F"
+  },
+  "5": {
+    "nome": "100m Livre",
+    "sexo": "M"
+  },
+  "6": {
+    "nome": "100m Medley",
+    "sexo": "F"
+  },
+  "7": {
+    "nome": "100m Medley",
+    "sexo": "M"
+  },
+  "8": {
+    "nome": "100m Peito",
+    "sexo": "F"
+  },
+  "9": {
+    "nome": "100m Peito",
+    "sexo": "M"
+  },
+  "10": {
+    "nome": "200m Borboleta",
+    "sexo": "F"
+  },
+  "11": {
+    "nome": "200m Borboleta",
+    "sexo": "M"
+  },
+  "12": {
+    "nome": "200m Costas",
+    "sexo": "F"
+  },
+  "13": {
+    "nome": "200m Costas",
+    "sexo": "M"
+  },
+  "14": {
+    "nome": "200m Livre",
+    "sexo": "F"
+  },
+  "15": {
+    "nome": "200m Livre",
+    "sexo": "M"
+  },
+  "16": {
+    "nome": "200m Medley",
+    "sexo": "F"
+  },
+  "17": {
+    "nome": "200m Medley",
+    "sexo": "M"
+  },
+  "18": {
+    "nome": "200m Peito",
+    "sexo": "F"
+  },
+  "19": {
+    "nome": "200m Peito",
+    "sexo": "M"
+  },
+  "20": {
+    "nome": "25m Borboleta",
+    "sexo": "F"
+  },
+  "21": {
+    "nome": "25m Borboleta",
+    "sexo": "M"
+  },
+  "22": {
+    "nome": "25m Costas",
+    "sexo": "F"
+  },
+  "23": {
+    "nome": "25m Costas",
+    "sexo": "M"
+  },
+  "24": {
+    "nome": "25m Livre",
+    "sexo": "F"
+  },
+  "25": {
+    "nome": "25m Livre",
+    "sexo": "M"
+  },
+  "26": {
+    "nome": "25m Peito",
+    "sexo": "F"
+  },
+  "27": {
+    "nome": "25m Peito",
+    "sexo": "M"
+  },
+  "28": {
+    "nome": "400m Livre",
+    "sexo": "F"
+  },
+  "29": {
+    "nome": "400m Livre",
+    "sexo": "M"
+  },
+  "30": {
+    "nome": "50m Borboleta",
+    "sexo": "F"
+  },
+  "31": {
+    "nome": "50m Borboleta",
+    "sexo": "M"
+  },
+  "32": {
+    "nome": "50m Costas",
+    "sexo": "F"
+  },
+  "33": {
+    "nome": "50m Costas",
+    "sexo": "M"
+  },
+  "34": {
+    "nome": "50m Livre",
+    "sexo": "F"
+  },
+  "35": {
+    "nome": "50m Livre",
+    "sexo": "M"
+  },
+  "36": {
+    "nome": "50m Peito",
+    "sexo": "F"
+  },
+  "37": {
+    "nome": "50m Peito",
+    "sexo": "M"
+  }
+}
