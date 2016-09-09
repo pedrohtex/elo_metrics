@@ -1,0 +1,5 @@
+Mongodb instructions
+
+1. Start mongod.exe
+2. Run mongo-express (AppData\Roaming\npm\node_modules\mongo-express)
+3. have fun

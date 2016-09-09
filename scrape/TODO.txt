@@ -1,0 +1,4 @@
+1. Modelar Resultados
+2. Scrape Resultado para cada Atleta
+2. Criar Server express para servir modelos
+3. Criar Front-end
